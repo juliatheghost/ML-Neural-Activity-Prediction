@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-BI 410L Final Project. Implementation of SVM ML Model for E-Phys neural analysis.
+Implementation of SVM ML Model for E-Phys neural analysis.
 Part Three. Implement defined ML algorithm and get accuracy.
 
 Author: Julia De Geest
